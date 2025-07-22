@@ -1,6 +1,6 @@
 <?php 
 
-    // We can inherit multiple class using with ---traits---
+    // Trait bana ke tu multiple classes me same function ka code reuse kar sakta hai without inheritance. ---traits---
 
     trait emailLogger {
 
