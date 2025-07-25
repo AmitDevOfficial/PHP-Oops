@@ -1,5 +1,8 @@
 <?php 
 
+
+// Abstact funciton ko hum tab use krte he jab hum apne function ko dikhana nhi chahte mtlb user ko kam se mtlb hona chahiye function ya code se nhi
+
     // Abstract class
     abstract class Animal {
 
