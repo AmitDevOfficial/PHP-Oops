@@ -1,7 +1,7 @@
 <?php 
 
     // we can also declare the value in contructor in php
-    // Constructor and destructor run automatically without createing its instances only create and instance with  its class
+    // Constructor and destructor run automatically without createing its instances - only create  instance with its class
 
     class myConstruct {
 
